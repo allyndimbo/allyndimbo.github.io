@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About Me... :)
 
-You can use the [editor on GitHub](https://github.com/allyndimbo/allyndimbo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an experienced ICT professional with database administration skills across MySQL, ability to Create stand alone Desktop applications developing websites, configuration and maintenance of computer based information systems, as well as having an eye for detail and able to multi-task under pressure. Also an excellent communicator, can relate well with people at all levels and has the flexibility of working well as part of a team and on my ownI am an experienced ICT professional with database administration skills across MySQL, ability to Create stand alone Desktop applications developing websites, configuration and maintenance of computer based information systems, as well as having an eye for detail and able to multi-task under pressure. Also an excellent communicator, can relate well with people at all levels and has the flexibility of working well as part of a team and on my own
+
 
 ### Markdown
 
