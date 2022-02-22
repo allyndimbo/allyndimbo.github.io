@@ -146,6 +146,8 @@
 									<li><a href="https://instagram.com/ally_ndimbo" data-text="ig"><i class="ti-instagram"></i></a></li>
 									<li><a href="https://www.linkedin.com/in/ally-ndimbo-806632127/" data-text="in"><i class="ti-linkedin"></i></a></li>
 									<li><a href="#" data-text="fa"><i class="ti-facebook"></i></a></li>
+									<li><a href="https://wa.me/+255684049052" data-text="fa"><i class="ti-whatsapp"></i></a></li>
+
 								</ul>
 							</div>
 						</div>
@@ -691,6 +693,8 @@
 							<a href="https://instagram.com/ally_ndimbo" target="_blank">Instagram</a>
 							<a href="https://linkedin.com/in/ally-ndimbo-806632127" target="_blank">Linkedin</a>
 							<a href="https://www.facebook.com/ally.jamaly.71" target="_blank">Facebook</a>
+							<a href="https://wa.me/+255684049052" target="_blank">Whatsapp</a>
+
 						</div>
 						<p class="footer-copyright">© Copyright - <a href="" target="_blank">Ally Ndimbo</a></p>
 					</div>
