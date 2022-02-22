@@ -59,14 +59,8 @@
 					<li class="nav-item"><a class="nav-link" href="#works" data-text="Projects">
 						<span>07</span>Projects
 					</a></li>
-					<li class="nav-item"><a class="nav-link" href="#clients" data-text="Clients">
-						<span>08</span>Clients
-					</a></li>
-					<li class="nav-item"><a class="nav-link" href="#blogs" data-text="Blogs">
-						<span>09</span>Blogs
-					</a></li>
 					<li class="nav-item"><a class="nav-link" href="#contact" data-text="Contact">
-						<span>10</span>Contact
+						<span>08</span>Contact
 					</a></li>
 				</ul>
 			</nav>
@@ -650,7 +644,7 @@
 								<p><span class="ti-email"></span>allyndimbo63@gmail.com</p>
 								<p><span class="ti-mobile"></span>+255 684 049 052</p>
 								<p><span class="ti-home"></span>Dar Es Salaam, Tanzania</p>
-								<a href="https://wa.me/+255684049052"><p><span class="ti-whatsapp"></span>Send Me a Message</p></a>
+								<p><a href="https://wa.me/+255684049052">Whatsapp Message</a></p>
 							</div>
 						</div>
 						<div class="col-lg-7 col-md-12">
