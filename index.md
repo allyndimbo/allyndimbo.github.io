@@ -650,6 +650,7 @@
 								<p><span class="ti-email"></span>allyndimbo63@gmail.com</p>
 								<p><span class="ti-mobile"></span>+255 684 049 052</p>
 								<p><span class="ti-home"></span>Dar Es Salaam, Tanzania</p>
+								<a href="https://wa.me/+255684049052"><p><span class="ti-whatsapp"></span>Send Me a Message</p></a>
 							</div>
 						</div>
 						<div class="col-lg-7 col-md-12">
