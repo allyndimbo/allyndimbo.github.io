@@ -884,10 +884,10 @@
 						
 						<div class="col-lg-4 col-md-6 col-sm-6 uiux">
 							<div class="work-single-item">
-								<a class="zoom-image" href="img/advocate.png">
+								<a class="zoom-image" href="img/spinandwin.png">
 									<div class="tilt-wrap">
-										<img class="img-fluid" src="img/advocate.png" alt="">
-										<h6>Advocacy Office Management Sysyem</h6>
+										<img class="img-fluid" src="img/spinandwin.png" alt="">
+										<h6>Tv Bet Game(Spin & win)</h6>
 									</div>
 								</a>
 							</div>
@@ -895,10 +895,10 @@
 						
 						<div class="col-lg-4 col-md-6 col-sm-6 uiux">
 							<div class="work-single-item">
-								<a class="zoom-image" href="img/pos.png">
+								<a class="zoom-image" href="img/kenotz.png">
 									<div class="tilt-wrap">
-										<img class="img-fluid" src="img/pos.png" alt="">
-										<h6>Point Of Sell & Stock Management System for Shops, Pharmacy, Supermarkets etc...</h6>
+										<img class="img-fluid" src="img/kenotz.png" alt="">
+										<h6>Tv Bet Game (KENO)</h6>
 									</div>
 								</a>
 							</div>
