@@ -113,7 +113,7 @@
 							<div class="hero-img wow fadeIn" data-wow-delay=".2s">
 								<div class="shape"></div>
 								<!-- hero image -->
-								<img class="img-fluid" src="img/user.jpg" alt="">
+								<img class="img-fluid" src="img/user.jpg" alt="" style="border-radius: 15px;">
 							</div>
 						</div>
 						<div class="col-md-7 col-sm-7">
